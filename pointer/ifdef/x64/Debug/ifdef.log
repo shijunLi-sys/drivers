@@ -1,0 +1,5 @@
+﻿  ifdef.cpp
+E:\code\drivers\pointer\ifdef\ifdef.cpp(12,2): warning C4091: 'typedef ': ignored on left of 'change' when no variable is declared
+E:\code\drivers\pointer\ifdef\ifdef.cpp(20,2): warning C4091: 'typedef ': ignored on left of 'keep' when no variable is declared
+E:\code\drivers\pointer\ifdef\ifdef.cpp(26,2): warning C4091: 'typedef ': ignored on left of 'Device' when no variable is declared
+  ifdef.vcxproj -> E:\code\drivers\pointer\ifdef\x64\Debug\ifdef.exe
